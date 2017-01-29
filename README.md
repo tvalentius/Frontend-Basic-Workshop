@@ -7,8 +7,8 @@
 - Javascript Basic
 - CSS Layout Basic
 - Responsive Layout
-- JQuery Basic
-- BootStrap Basic
+- jQuery Basic
+- Bootstrap Basic
 
 ## Project
 
